@@ -19,4 +19,20 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jxt1nn/dsa-grind/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Array
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/jxt1nn/dsa-grind/tree/master/0733-flood-fill) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/jxt1nn/dsa-grind/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/jxt1nn/dsa-grind/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/jxt1nn/dsa-grind/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
